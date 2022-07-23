@@ -16,9 +16,9 @@ Este material se comparte bajo la licencia [Creative Commons Attribution-ShareAl
 
 ### Citar como
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5668300.svg)](https://doi.org/10.5281/zenodo.5668300)
+[![DOI](https://zenodo.org/badge/516953706.svg)](https://zenodo.org/record/6891929)
 
-No, Irma Noemí. (2022, Julio) Ensayos de regresiones lineales múltiples para la predicción de la Demanda de Combustible 2020 en Argentina v.1, Zenodo. Zenodo. https://doi.org/10.5281/zenodo.5668300
+No, Irma Noemí. (Julio, 2022) Ensayos de regresiones lineales múltiples para la predicción de la Demanda de Combustible 2020 en Argentina v.1, Zenodo. Zenodo. https://zenodo.org/record/6891929
 
 ### Recurso visible en: 
 https://irmanoemino.github.io/naftaprediccion/
