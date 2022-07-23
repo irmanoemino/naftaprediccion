@@ -22,3 +22,6 @@ No, Irma Noemí. (2022, Julio) Ensayos de regresiones lineales múltiples para l
 
 ### Recurso visible en: 
 https://irmanoemino.github.io/naftaprediccion/
+
+### Explicación en Video:
+https://youtu.be/JF9S4kHbulM
